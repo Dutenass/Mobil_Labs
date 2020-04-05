@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab_2</string>
+    <string name="enter_amount">Введите число</string>
+    <string name="enter_amount_comment">Введите число</string>
+    <string name="tip">Чаевые</string>
+    <string name="total">Всего</string>
+    <string name="tv_total">Всего</string>
+</resources>
